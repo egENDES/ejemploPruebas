@@ -9,7 +9,7 @@ public class sumarSoloDiez {
 		int num, suma_total;
 		suma_total = 0;
 
-		for (int i = 1; i <= 20; i++) {
+		for (int i = 1; i <= 30; i++) {
 			System.out.print("Introduzca numero: ");
 			num = teclado.nextInt();
 			suma_total = suma_total + num;
