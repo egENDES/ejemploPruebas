@@ -10,7 +10,7 @@ public class sumaWhile {
 		leer.useLocale( Locale.ENGLISH );
 		int i = 1;
 		float n, suma = 0;
-		while (i <= 3) {
+		while (i <= 5) {
 			System.out.print("Introduce numero #" + i + ": ");
 			n = leer.nextFloat();
 			suma += n;
